@@ -1,1 +1,1 @@
-<h1 align="start">Привет 👋</h1>
+<h1 align="start">Hello World 👋</h1>
